@@ -1,4 +1,6 @@
-.body {
-  background-color: hsl(243, 87.4%, 50.4%);
-  color: #f543c2;
+body {
+  background-image: url(./img/night.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
 }
